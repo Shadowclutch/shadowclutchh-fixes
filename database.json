@@ -1,66 +1,534 @@
 {
-  "271590": {
-    "name": "GTA V Legacy",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/GTA.V.Legacy.zip"
+  "3768760": {
+    "name": "007.FIRST.LIGHT.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/007.FIRST.LIGHT.zip"
   },
-  "3240220": {
-    "name": "GTA V Enhanced v22281759",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/GTA.5.Enhanced.v22281759.zip"
+  "2340840": {
+    "name": "33.Immortals.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/33.Immortals.zip"
+  },
+  "2207490": {
+    "name": "63.Days.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/63.Days.zip"
+  },
+  "251570": {
+    "name": "7.Days.to.Die.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/7.Days.to.Die.zip"
+  },
+  "752590": {
+    "name": "A.Plague.Tale.Innocence.Bypass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/A.Plague.Tale.Innocence.Bypass.zip"
+  },
+  "1901470": {
+    "name": "Abiotic.Factor.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Abiotic.Factor.zip"
+  },
+  "1710760": {
+    "name": "AirportSim.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/AirportSim.zip"
+  },
+  "2683450": {
+    "name": "Ale.and.Tale.Tavern.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Ale.and.Tale.Tavern.zip"
+  },
+  "1549970": {
+    "name": "Aliens.Fireteam.Elite.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Aliens.Fireteam.Elite.zip"
+  },
+  "2051980": {
+    "name": "Aloft.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Aloft.zip"
+  },
+  "2528730": {
+    "name": "Altarium.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Altarium.zip"
+  },
+  "270880": {
+    "name": "American.Truck.Simulator.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/American.Truck.Simulator.zip"
+  },
+  "2854310": {
+    "name": "Another.Try.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Another.Try.2.zip"
+  },
+  "1178370": {
+    "name": "Aragami.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Aragami.2.zip"
+  },
+  "2390390": {
+    "name": "ARK.Survival.Ascended.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/ARK.Survival.Ascended.zip"
+  },
+  "1874880": {
+    "name": "Arma.Reforger.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Arma.Reforger.zip"
+  },
+  "1888160": {
+    "name": "ARMORED.CORE.VI.FIRES.OF.RUBICON.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/ARMORED.CORE.VI.FIRES.OF.RUBICON.zip"
+  },
+  "48190": {
+    "name": "Assassin.Creed.Brotherhood.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.Creed.Brotherhood.zip"
+  },
+  "208480": {
+    "name": "Assassin.Creed.III.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.Creed.III.zip"
+  },
+  "311560": {
+    "name": "Assassin.Creed.Rogue.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.Creed.Rogue.zip"
+  },
+  "289650": {
+    "name": "Assassin.Creed.Unity.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.Creed.Unity.zip"
+  },
+  "2208920": {
+    "name": "Assassin.Creed.Valhalla.Bypass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.Creed.Valhalla.Bypass.zip"
+  },
+  "33230": {
+    "name": "Assassin.s.Creed.II.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.s.Creed.II.zip"
+  },
+  "582160": {
+    "name": "Assassin.s.Creed.Origin.Ubisoft.Bypass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.s.Creed.Origin.Ubisoft.Bypass.zip"
+  },
+  "201870": {
+    "name": "Assassin.s.Creed.Revelations.Bypass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.s.Creed.Revelations.Bypass.zip"
+  },
+  "359550": {
+    "name": "Assassin.s.Creed.Syndicate.Bypass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassin.s.Creed.Syndicate.Bypass.zip"
+  },
+  "242050": {
+    "name": "Assassins.Creed.IV.Black.Flag.Bypass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Assassins.Creed.IV.Black.Flag.Bypass.zip"
+  },
+  "361420": {
+    "name": "ASTRONEER.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/ASTRONEER.zip"
+  },
+  "2941320": {
+    "name": "Astrumis.-.Survive.Together.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Astrumis.-.Survive.Together.zip"
+  },
+  "449800": {
+    "name": "Attack.on.Titan.A.O.T.Wings.of.Freedom.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Attack.on.Titan.A.O.T.Wings.of.Freedom.zip"
+  },
+  "1066890": {
+    "name": "Automobilista.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Automobilista.2.zip"
+  },
+  "2548240": {
+    "name": "Backrooms.Cleanup.Crew.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Backrooms.Cleanup.Crew.zip"
+  },
+  "2121710": {
+    "name": "Backrooms.Escape.Together.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Backrooms.Escape.Together.zip"
+  },
+  "2919370": {
+    "name": "Backrooms.Extractions.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Backrooms.Extractions.zip"
+  },
+  "2226830": {
+    "name": "Backrooms.Rec.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Backrooms.Rec.zip"
+  },
+  "1086940": {
+    "name": "Baldur.s.Gate.3.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Baldur.s.Gate.3.zip"
+  },
+  "1223280": {
+    "name": "Battle.Realms.Zen.Edition.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Battle.Realms.Zen.Edition.zip"
+  },
+  "1766540": {
+    "name": "Battle.Talent.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Battle.Talent.zip"
+  },
+  "1238840": {
+    "name": "Battlefield.1.Revolution.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Battlefield.1.Revolution.zip"
+  },
+  "1238820": {
+    "name": "Battlefield.3.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Battlefield.3.zip"
+  },
+  "1238860": {
+    "name": "Battlefield.4.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Battlefield.4.zip"
+  },
+  "1238810": {
+    "name": "Battlefield.V.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Battlefield.V.zip"
+  },
+  "284160": {
+    "name": "BeamNG.Drive.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/BeamNG.Drive.zip"
+  },
+  "2974310": {
+    "name": "Bean.There.Won.That.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Bean.There.Won.That.zip"
+  },
+  "620980": {
+    "name": "Beat.Saber.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Beat.Saber.zip"
+  },
+  "1812450": {
+    "name": "Bellwright.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Bellwright.zip"
+  },
+  "509980": {
+    "name": "BIGFOOT.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/BIGFOOT.zip"
   },
   "2358720": {
     "name": "Black.Myth.Wukong.zip",
     "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Black.Myth.Wukong.zip"
   },
-  "3768760": {
-    "name": "007.FIRST.LIGHT.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/007.FIRST.LIGHT.zip"
+  "1158940": {
+    "name": "Blazing.Sails.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Blazing.Sails.zip"
   },
-  "1623730": {
-    "name": "Palworld.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Palworld.zip"
+  "2895510": {
+    "name": "BLEACH.Rebirth.Of.Souls.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/BLEACH.Rebirth.Of.Souls.zip"
   },
-  "1623730": {
-    "name": "meccha_chameleon_fix.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/meccha_chameleon_fix.zip"
+  "1834160": {
+    "name": "Blood.Typers.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Blood.Typers.zip"
   },
-  "460930": {
-    "name": "Tom.Clancy.s.Ghost.Recon.Wildlands.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Tom.Clancy.s.Ghost.Recon.Wildlands.zip"  
+  "1850180": {
+    "name": "BMX.Streets.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/BMX.Streets.zip"
+  },
+  "2406770": {
+    "name": "Bodycam.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Bodycam.zip"
+  },
+  "49520": {
+    "name": "Borderlands.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Borderlands.2.zip"
+  },
+  "397540": {
+    "name": "Borderlands.3.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Borderlands.3.zip"
+  },
+  "729040": {
+    "name": "Borderlands.GOTY.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Borderlands.GOTY.zip"
+  },
+  "261640": {
+    "name": "Borderlands.The.Pre-Sequel.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Borderlands.The.Pre-Sequel.zip"
+  },
+  "2962310": {
+    "name": "Brave.Escape.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Brave.Escape.zip"
+  },
+  "2835570": {
+    "name": "Buckshot.Roulette.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Buckshot.Roulette.zip"
+  },
+  "2867860": {
+    "name": "Bunker.Invaders.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Bunker.Invaders.zip"
+  },
+  "2954840": {
+    "name": "Cafemart.Simulator.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Cafemart.Simulator.zip"
+  },
+  "42700": {
+    "name": "Call.of.Duty.-.Black.Ops.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.-.Black.Ops.zip"
+  },
+  "7940": {
+    "name": "Call.of.Duty.4.Modern.Warfare.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.4.Modern.Warfare.zip"
+  },
+  "1985810": {
+    "name": "Call.of.Duty.Black.Ops.Cold.War.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Black.Ops.Cold.War.zip"
+  },
+  "202970": {
+    "name": "Call.of.Duty.Black.Ops.II.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Black.Ops.II.zip"
+  },
+  "311210": {
+    "name": "Call.of.Duty.Black.Ops.III.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Black.Ops.III.zip"
+  },
+  "209160": {
+    "name": "Call.of.Duty.Ghosts.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Ghosts.zip"
+  },
+  "292730": {
+    "name": "Call.of.Duty.Infinite.Warfare.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Infinite.Warfare.zip"
+  },
+  "10180": {
+    "name": "Call.of.Duty.Modern.Warfare.2.2009.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Modern.Warfare.2.2009.zip"
+  },
+  "2000950": {
+    "name": "Call.of.Duty.Modern.Warfare.2019.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Modern.Warfare.2019.zip"
+  },
+  "42680": {
+    "name": "Call.of.Duty.Modern.Warfare.3.2011.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Modern.Warfare.3.2011.zip"
+  },
+  "1985820": {
+    "name": "Call.of.Duty.Vanguard.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.of.Duty.Vanguard.zip"
+  },
+  "476600": {
+    "name": "Call.Of.Duty.WWII.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Call.Of.Duty.WWII.zip"
+  },
+  "2895530": {
+    "name": "Capcom.Fighting.Collection.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Capcom.Fighting.Collection.2.zip"
+  },
+  "2248760": {
+    "name": "Car.For.Sale.Simulator.2023.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Car.For.Sale.Simulator.2023.zip"
+  },
+  "1881420": {
+    "name": "Cardfight.Vanguard.Dear.Days.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Cardfight.Vanguard.Dear.Days.2.zip"
+  },
+  "3057310": {
+    "name": "Carry.The.Glass.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Carry.The.Glass.zip"
+  },
+  "2867820": {
+    "name": "CarServiceTogether.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/CarServiceTogether.zip"
+  },
+  "635260": {
+    "name": "CarX.Drift.Racing.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/CarX.Drift.Racing.zip"
+  },
+  "1114750": {
+    "name": "carxstreet.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/carxstreet.zip"
+  },
+  "3016550": {
+    "name": "Chained.in.the.Backrooms.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Chained.in.the.Backrooms.zip"
+  },
+  "2567870": {
+    "name": "ChainedTogether.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/ChainedTogether.zip"
+  },
+  "3057410": {
+    "name": "Chaos.Express.Delivery.Simulator.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Chaos.Express.Delivery.Simulator.zip"
+  },
+  "3034920": {
+    "name": "Cheaters.Cheetah.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Cheaters.Cheetah.zip"
+  },
+  "1358700": {
+    "name": "Chivalry.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Chivalry.2.zip"
+  },
+  "2876610": {
+    "name": "Clair.Obscur.Expedition.33.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Clair.Obscur.Expedition.33.zip"
+  },
+  "2374920": {
+    "name": "Clank.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Clank.zip"
   },
   "440900": {
     "name": "Conan.Exiles.zip",
     "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Conan.Exiles.zip"
   },
-  "1656930": {
-    "name": "Coridden.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Coridden.zip"
+  "1908130": {
+    "name": "Contain.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Contain.zip"
   },
-  "460930": {
-    "name": "ContractVille.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/ContractVille.zip"  
-  },  
   "2684780": {
     "name": "Contractors.Showdown.zip",
     "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Contractors.Showdown.zip"
   },
-  "1908130": {
-    "name": "Contain.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Contain.zip"
+  "2441110": {
+    "name": "ContractVille.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/ContractVille.zip"
+  },
+  "1656930": {
+    "name": "Coridden.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Coridden.zip"
   },
   "1215970": {
     "name": "Crab.Champions.zip",
     "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Crab.Champions.zip"
   },
-  "1158310": {
-    "name": "Crusader.Kings.III.zip",
-    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Crusader.Kings.III.zip"
-  },
   "2933080": {
     "name": "Crime.Boss.Rockay.City.zip",
     "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Crime.Boss.Rockay.City.zip"
   },
+  "1158310": {
+    "name": "Crusader.Kings.III.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Crusader.Kings.III.zip"
+  },
   "3057100": {
     "name": "Cryptid.Farm.zip",
     "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Cryptid.Farm.zip"
+  },
+  "2884520": {
+    "name": "Cubic.Odyssey.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Cubic.Odyssey.zip"
+  },
+  "2343460": {
+    "name": "CUSTOM.MECH.WARS.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/CUSTOM.MECH.WARS.zip"
+  },
+  "1113000": {
+    "name": "CyberCorp.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/CyberCorp.zip"
+  },
+  "2208330": {
+    "name": "Dark.Hours.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dark.Hours.zip"
+  },
+  "570940": {
+    "name": "DARK.SOULS.REMASTERED.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/DARK.SOULS.REMASTERED.zip"
+  },
+  "262060": {
+    "name": "Darkest.Dungeon.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Darkest.Dungeon.zip"
+  },
+  "374320": {
+    "name": "DARKSOULS.III.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/DARKSOULS.III.zip"
+  },
+  "1412070": {
+    "name": "Darkwater.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Darkwater.zip"
+  },
+  "2109430": {
+    "name": "Dawn.of.Defiance.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dawn.of.Defiance.zip"
+  },
+  "221100": {
+    "name": "DayZ.DayZavr.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/DayZ.DayZavr.zip"
+  },
+  "2134070": {
+    "name": "Dead.Island.2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dead.Island.2.zip"
+  },
+  "383150": {
+    "name": "Dead.Island.Definitive.Edition.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dead.Island.Definitive.Edition.zip"
+  },
+  "383180": {
+    "name": "Dead.Island.Riptide.Definitive.Edition.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dead.Island.Riptide.Definitive.Edition.zip"
+  },
+  "543460": {
+    "name": "Dead.Rising.4.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dead.Rising.4.zip"
+  },
+  "224060": {
+    "name": "Deadpool.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Deadpool.zip"
+  },
+  "3052110": {
+    "name": "Deadzone.Rogue.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Deadzone.Rogue.zip"
+  },
+  "2941360": {
+    "name": "DeathWatchers.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/DeathWatchers.zip"
+  },
+  "548430": {
+    "name": "Deep.Rock.Galactic.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Deep.Rock.Galactic.zip"
+  },
+  "1929610": {
+    "name": "Demonologist.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Demonologist.zip"
+  },
+  "2837310": {
+    "name": "Descending.The.Woods.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Descending.The.Woods.zip"
+  },
+  "1274570": {
+    "name": "DEVOUR.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/DEVOUR.zip"
+  },
+  "1000001": {
+    "name": "Diablo_II_Resurrected_-_Infernal_Edition_v2.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Diablo_II_Resurrected_-_Infernal_Edition_v2.zip"
+  },
+  "2341100": {
+    "name": "Diesel.Legacy.The.Brazen.Age.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Diesel.Legacy.The.Brazen.Age.zip"
+  },
+  "1149620": {
+    "name": "Dinkum.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dinkum.zip"
+  },
+  "690790": {
+    "name": "Dirt.Rally.2.0.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dirt.Rally.2.0.zip"
+  },
+  "782330": {
+    "name": "Doom.Eternal.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Doom.Eternal.zip"
+  },
+  "678950": {
+    "name": "Dragon.Ball.FighterZ.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dragon.Ball.FighterZ.zip"
+  },
+  "1790600": {
+    "name": "Dragon.Ball.Sparking.Zero.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dragon.Ball.Sparking.Zero.zip"
+  },
+  "323470": {
+    "name": "Dragon.Ball.Xeno.Verse.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dragon.Ball.Xeno.Verse.zip"
+  },
+  "1418630": {
+    "name": "Dread.Hunger.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Dread.Hunger.zip"
+  },
+  "1850120": {
+    "name": "DreadHaunt.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/DreadHaunt.zip"
+  },
+  "2919310": {
+    "name": "Drive.Beyond.Horizons.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Drive.Beyond.Horizons.zip"
+  },
+  "3240220": {
+    "name": "GTA V Enhanced v22281759",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/GTA.5.Enhanced.v22281759.zip"
+  },
+  "271590": {
+    "name": "GTA V Legacy",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/GTA.V.Legacy.zip"
+  },
+  "1623731": {
+    "name": "meccha_chameleon_fix.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/meccha_chameleon_fix.zip"
+  },
+  "1623730": {
+    "name": "Palworld.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Palworld.zip"
+  },
+  "460930": {
+    "name": "Tom.Clancy.s.Ghost.Recon.Wildlands.zip",
+    "url": "https://github.com/Shadowclutch/shadowclutchh-fixes/releases/download/v1.0.0/Tom.Clancy.s.Ghost.Recon.Wildlands.zip"
   }
 }
